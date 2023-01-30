@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yevhenii</h1>
 <h3 align="center">I'm React Developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **evgkulikovskyy@gmail.com**
 
