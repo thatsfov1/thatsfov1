@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yevhenii</h1>
-<h3 align="center">I'm React Developer from Ukraine</h3>
+<h3 align="center">I'm Frontend Developer from Ukraine</h3>
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **evgkulikovskyy@gmail.com**
 
