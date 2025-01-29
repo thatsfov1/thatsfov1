@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yevhenii</h1>
-<h3 align="center">I'm Frontend Developer from Ukraine</h3>
+<h3 align="center">I'm Frontend Dev</h3>
 
 - 💬 Ask me about **JavaScript, React**
 
