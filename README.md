@@ -4,15 +4,11 @@
 
 - 🔭 I'm currently working on **WISHBUCKET -  social wishlist platform, made as Telegram mini-app**
 
-- 🌱 I'm currently learning **RobotFramework & SpringBoot**
-
 - 👯 I'm looking to collaborate on **Web3 projects**
 
 - 💬 Ask me about **React, Node.js, .NET, Typescript**
 
 - 📫 How to reach me **evgkulikovskyy@gmail.com**
-
-- ⚡ Fun fact **Ran 150+ km from Poland to the nearest Czech town to test my limits**
 
 - 👨‍💻 My website **[https://kulikovskyi-dev.vercel.app/](https://kulikovskyi-dev.vercel.app/)**
 
