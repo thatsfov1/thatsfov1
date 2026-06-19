@@ -1,6 +1,8 @@
 hi
 
-I'm currently working on **[WISHBUCKET](https://t.me/wishbucket_bot/app?startapp=ref_ESM1IYKK) - social wishlist platform, made as Telegram mini-app**
+I'm currently working on **TLUM** - link in bio tool
+
+**[WISHBUCKET](https://t.me/wishbucket_bot/app?startapp=ref_ESM1IYKK) - social wishlist platform, made as Telegram mini-app**
 
 How to reach me **evgkulikovskyy@gmail.com**
 
