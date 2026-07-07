@@ -1,6 +1,6 @@
 hi
 
-I'm currently working on **LINK FOR INK** - page builder for tattoo artists
+I'm currently working on **[LINK FOR INK](https://linkfor.ink) - page builder for tattoo artists**
 
 **[WISHBUCKET](https://t.me/wishbucket_bot/app?startapp=ref_ESM1IYKK) - social wishlist platform, made as Telegram mini-app**
 
