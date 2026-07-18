@@ -4,7 +4,7 @@ I'm currently working on **[LINK FOR INK](https://linkfor.ink) - page builder fo
 
 **[WISHBUCKET](https://t.me/wishbucket_bot/app?startapp=ref_ESM1IYKK) - social wishlist platform, made as Telegram mini-app**
 
-How to reach me **evgkulikovskyy@gmail.com**
+How to reach me **yev.kulikovskyi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
