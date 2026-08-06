@@ -18,5 +18,3 @@ How to reach me **yev.kulikovskyi@gmail.com**
   <img src="https://skillicons.dev/icons?i=cpp,cs,css,dotnet,express,figma,git,html,js,mongodb,nextjs,nodejs,php,postgres,postman,py,qt,react,redux,tailwind,ts" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatsfov1&" alt="thatsfov1" /></p>
-
